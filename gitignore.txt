@@ -1,0 +1,4 @@
+*.log
+*.png
+krypton/__pycache__
+krypton/*session*
